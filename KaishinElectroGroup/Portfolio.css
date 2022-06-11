@@ -1,0 +1,345 @@
+.u-block-1506-2 {
+  position: absolute;
+  bottom: 10px;
+}
+
+.u-block-1506-3 {
+  position: absolute;
+  left: 0;
+}
+
+.u-block-1506-4 {
+  position: absolute;
+  width: 65px;
+  height: 65px;
+  left: auto;
+  top: 365px;
+  right: calc(((100% - 1140px) / 2)  + -49px);
+}
+
+@media (max-width: 1199px) {
+  .u-block-1506-4 {
+    right: calc(((100% - 940px) / 2)  + -40px);
+  }
+}
+
+@media (max-width: 991px) {
+  .u-block-1506-4 {
+    right: calc(((100% - 720px) / 2)  + -31px);
+  }
+}
+
+@media (max-width: 767px) {
+  .u-block-1506-4 {
+    right: calc(((100% - 540px) / 2)  + -23px);
+  }
+}
+
+@media (max-width: 575px) {
+  .u-block-1506-3 {
+    width: 41px;
+    height: 41px;
+    padding: 0;
+  }
+
+  .u-block-1506-4 {
+    width: 41px;
+    height: 41px;
+    right: calc(((100% - 340px) / 2) + -14px);
+    padding: 0;
+  }
+}
+
+ .u-section-1-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url("images/Asteelflash-box-build-assembly_header.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1-1 .u-sheet-1 {
+  min-height: 800px;
+}
+
+.u-section-1-1 .u-text-1 {
+  font-size: 6rem;
+  font-weight: 700;
+  margin: 60px auto 0;
+}
+
+.u-section-1-1 .u-text-2 {
+  margin: 30px auto 0;
+}
+
+.u-section-1-1 .u-btn-1 {
+  background-image: none;
+  text-transform: uppercase;
+  font-weight: 700;
+  margin: 40px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1-1 .u-sheet-1 {
+    min-height: 660px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1-1 .u-sheet-1 {
+    min-height: 506px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1-1 .u-sheet-1 {
+    min-height: 380px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1-1 .u-sheet-1 {
+    min-height: 239px;
+  }
+
+  .u-section-1-1 .u-text-1 {
+    font-size: 3.75rem;
+  }
+}
+
+ .u-section-1-2 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url("images/48653276226.png");
+  background-position: 50% 50%;
+  min-height: 1086px;
+}
+
+@media (max-width: 1199px) {
+   .u-section-1-2 {
+    min-height: 895px;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-1-2 {
+    min-height: 686px;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-1-2 {
+    min-height: 515px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-1-2 {
+    min-height: 324px;
+  }
+} .u-section-2 {
+  min-height: 575px;
+}
+
+.u-section-2 .u-list-1 {
+  grid-template-rows: repeat(1, auto);
+  margin-top: 17px;
+  margin-bottom: 0;
+}
+
+.u-section-2 .u-repeater-1 {
+  grid-template-columns: repeat(3, calc(33.3333% - 6.66667px));
+  min-height: 470px;
+  grid-gap: 10px;
+}
+
+.u-section-2 .u-image-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("images/Indiaonitswaytobecomethenextelectronicsmanufacturinghub.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-2 .u-image-2 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("images/Electrical-Assembly-Solutions-final.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-2 .u-image-3 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("images/ems-contract-manufacturing-500x500.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-container-layout-3 {
+  padding: 30px;
+}
+
+.u-section-2 .u-shape-1 {
+  height: 88px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-repeater-1 {
+    min-height: 375px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-repeater-1 {
+    grid-template-columns: repeat(2, calc(50% - 5px));
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-repeater-1 {
+    grid-template-columns: repeat(1, 100%);
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-2 {
+    min-height: 480px;
+  }
+} .u-section-3 {
+  background-image: none;
+}
+
+.u-section-3 .u-sheet-1 {
+  min-height: 80px;
+}
+
+.u-section-3 .u-layout-wrap-1 {
+  margin-top: 1px;
+  margin-bottom: 1px;
+}
+
+.u-section-3 .u-layout-cell-1 {
+  min-height: 79px;
+}
+
+.u-section-3 .u-container-layout-1 {
+  padding: 19px 60px;
+}
+
+.u-section-3 .u-text-1 {
+  font-size: 2.25rem;
+  margin: 0 auto;
+}
+
+.u-section-3 .u-layout-cell-2 {
+  min-height: 79px;
+}
+
+.u-section-3 .u-container-layout-2 {
+  padding: 15px 60px;
+}
+
+.u-section-3 .u-social-icons-1 {
+  height: 48px;
+  min-height: 16px;
+  width: 280px;
+  min-width: 120px;
+  margin: 0 auto;
+}
+
+.u-section-3 .u-icon-1 {
+  color: rgb(59, 89, 152) !important;
+}
+
+.u-section-3 .u-icon-2 {
+  color: rgb(17, 17, 17) !important;
+}
+
+.u-section-3 .u-icon-3 {
+  height: 100%;
+  color: rgb(197, 54, 164) !important;
+}
+
+.u-section-3 .u-icon-4 {
+  height: 100%;
+  color: rgb(0, 122, 185) !important;
+}
+
+.u-section-3 .u-icon-5 {
+  height: 100%;
+  color: rgb(203, 32, 39) !important;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 149px;
+  }
+
+  .u-section-3 .u-layout-cell-1 {
+    min-height: 65px;
+  }
+
+  .u-section-3 .u-layout-cell-2 {
+    min-height: 65px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 160px;
+  }
+
+  .u-section-3 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-3 .u-container-layout-1 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-3 .u-layout-cell-2 {
+    min-height: 50px;
+  }
+
+  .u-section-3 .u-container-layout-2 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 262px;
+  }
+
+  .u-section-3 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-layout-cell-2 {
+    min-height: 75px;
+  }
+
+  .u-section-3 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 209px;
+  }
+
+  .u-section-3 .u-layout-wrap-1 {
+    margin-bottom: 30px;
+  }
+
+  .u-section-3 .u-text-1 {
+    font-size: 1.875rem;
+  }
+
+  .u-section-3 .u-layout-cell-2 {
+    min-height: 47px;
+  }
+}
